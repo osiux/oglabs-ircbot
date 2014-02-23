@@ -1,0 +1,17 @@
+{
+    "name": "oglabs-ircbot",
+    "description": "A simple ircbot powered by Philips IRC",
+    "homepage": "https://github.com/osiux/oglabs-ircbot",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/osiux/philip.git"
+        }
+    ],
+    "require": {
+        "epochblue/philip": "dev-master",
+        "osiux/philip-plugins": "dev-master",
+        "epochblue/philip-plugins": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
