@@ -1,7 +1,8 @@
 {
-    "name": "oglabs-ircbot",
+    "name": "osiux/oglabs-ircbot",
     "description": "A simple ircbot powered by Philips IRC",
     "homepage": "https://github.com/osiux/oglabs-ircbot",
+    "license": "MIT",
     "repositories": [
         {
             "type": "vcs",
